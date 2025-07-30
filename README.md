@@ -1,3 +1,5 @@
+![Banner Piscine - Rebeca Freire](banner.png)
+
 # 🧠 Piscine C - 42 São Paulo | Rebeca Freire
 
 Olá! 👋 Me chamo Rebeca Freire e esse repositório documenta minha jornada durante a **Piscine C da 42 São Paulo** — uma semana intensa de desafios, aprendizado em C e superação pessoal. 🏊‍♀️💻

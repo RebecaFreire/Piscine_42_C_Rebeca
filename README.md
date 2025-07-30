@@ -1,4 +1,6 @@
-![Banner Piscine - Rebeca Freire](banner.png)
+<p align="center">
+  <img src="banner.png" alt="Banner Piscine" style="max-height: 300px;" />
+</p>
 
 # 🧠 Piscine C - 42 São Paulo | Rebeca Freire
 
